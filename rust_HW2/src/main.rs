@@ -5,5 +5,5 @@ fn main() {
 //a
 
 fn fib() {
-    
+    println!("Hello World!");
 }
