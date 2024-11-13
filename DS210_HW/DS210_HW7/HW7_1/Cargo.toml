@@ -1,0 +1,8 @@
+[package]
+name = "DS210_HW7"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8"
+graphlib = "0.6.3"
