@@ -1,0 +1,1 @@
+/opt/app-root/src/hello-world/DS210_HW/DS210_HW6_MinSeok_Cho_2_Post\ Check/DS210_HW6/target/debug/HW5_1_2: /opt/app-root/src/hello-world/DS210_HW/DS210_HW6_MinSeok_Cho_2_Post\ Check/DS210_HW6/src/main.rs
